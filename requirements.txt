@@ -1,0 +1,2 @@
+# Requires: recursive-loop
+# (Not available on PyPI)
